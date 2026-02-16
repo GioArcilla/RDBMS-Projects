@@ -1,6 +1,6 @@
 # Data Processing
 A collection of hands-on RDMS projects and real-world examples built around systems I use everyday:
-Linux, Bash, AWS, SolarWinds, Splunk, SQL, Powershell
+Linux, Bash, AWS, SolarWinds, Splunk, SQL, Powershell, VsCode, Python
 
 
 ## Each Project Will Contain:
