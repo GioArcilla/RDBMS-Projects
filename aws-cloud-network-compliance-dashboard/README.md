@@ -69,12 +69,21 @@ See architecture.png
 (Optional) Start the Flask API to expose findings through a local endpoint for dashboard integration or JSON review.
 
 ## General Workflow
-- Configure environment
-- Collect AWS resource data
+- Configure environment/credentials
+- Collect AWS resource data/Run collectors
 - Run compliance scan
 - Review findings
 - Remediate issues in AWS
 - Re-run scan to verify compliance
+
+## Troubleshooting 
+Connection Refused to RDS:
+- Check security group inbound rules
+- Verify RDS is publicly accessible (if testing locally)
+
+boto3 Authentication Error:
+- Run aws sts get-caller-identity
+- Confirm credentials and region
 
 ### Version History:
 2-16-2026: Initial repo and deployment 
