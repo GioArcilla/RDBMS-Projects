@@ -86,5 +86,5 @@ boto3 Authentication Error:
 - Confirm credentials and region
 
 ### Version History:
-2-16-2026: Initial repo and deployment 
-2-16=2026: Initial environment deployed
+2026-02-16: Initial repo and deployment 
+2026-02-16: Initial environment deployed
