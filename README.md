@@ -26,7 +26,7 @@ Linux, Bash, AWS, SolarWinds, Splunk, SQL, Powershell, VsCode, Python
 6) CMDB with Ansible Integration
 
 ### Version History
-2-15-2026: Initial repo, README added
+- 2026-02-15: Initial repo, README added
 
 ### Build Status
 - 2026-02-15: Developing framework and problem/solution scope
